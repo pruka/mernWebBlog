@@ -75,7 +75,7 @@ function FooterCom() {
      
                 </div>
                 <Footer.Divider />
-                <div className='w-full sm:flex sm:items-center sm:justify-betweeen'>
+                <div className='w-full sm:flex sm:items-center sm:justify-between'>
                     <Footer.Copyright 
                     href='#'
                     by="Halil's blog"
